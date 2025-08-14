@@ -1,2 +1,2 @@
 # calorie-app
-Calorie applicatio
+Calorie application
